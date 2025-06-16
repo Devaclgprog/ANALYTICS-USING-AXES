@@ -6,3 +6,4 @@ python-dotenv
 Pillow
 kaleido
 google-generativeai
+openpyxl
